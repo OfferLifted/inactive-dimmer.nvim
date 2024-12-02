@@ -14,7 +14,7 @@ It gets the applied colorscheme colors and darkens them by the specified percent
 
 ## Installation
 
-Use your favorite plugin manager to install inactive-dimmer.nvim.
+Use your favorite plugin manager to install `inactive-dimmer.nvim`.
 
 ### Using [lazy.nvim](https://github.com/folke/lazy.nvim)
 
